@@ -6,7 +6,8 @@
 main{
     font-family: Arial, Helvetica, sans-serif;
     height: auto;
-    margin: 20px;
+    margin: 20px 20px;
+    width: ;
    
 }
 nav{
@@ -230,8 +231,7 @@ left: 914px;
 padding: 30px 70px;
 }
  .flex-container{
-    width: 1284px
-     background-color:;
+    /* width: 1284px */
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-around; 
@@ -247,3 +247,333 @@ padding: 30px 70px;
     left: 117px;
     
  }
+ section{
+    display: flex;
+    width: 1897px;
+height: 512px;
+top: 1461px;
+left: 171px;
+justify-content: center;
+
+ }
+ .priceheader{
+    display: block;
+    width: 856px;
+    height: 211px;
+    left: 120px;
+    
+ }
+ section div h2{
+    width: 650px;
+height: 120px;
+left: 135px;
+
+    font-family: Poppins;
+font-size: 50px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0em;
+color: #000000;
+
+text-align: center;
+
+ }
+ section div p{
+    width: 464px;
+    height: 25px;
+    margin-top: 55px;
+    margin-left: 140px;
+    /* left: 212px; */
+    font-family: Poppins;
+font-size: 25px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align:  ;
+color: #000000;
+
+ }
+ section div span{
+    width: 99px;
+height: 25px;
+margin-top: 300px;
+margin-left: 200px;
+font-family: Poppins;
+font-size: 25px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+ }
+ .btn{
+    width: 93px;
+height: 50px;
+top: 200px;
+left: 400px;
+border-radius: 73px;
+background: #B00000;
+ }
+ button span{
+    /* display: block;
+    width: 30px;
+height: 30px;
+margin-top: 250px;
+margin-left: 409px;
+border-radius: 5px;
+color: #FFFFFF; */
+
+ }
+ .section2{
+    height: 900px;
+ }
+ .div3{
+    position: ;
+    width: 370px;
+height: 826px;
+top: 496px;
+border: 1px solid black;
+border-radius: 10px;
+
+ }
+ .div4{
+    width: 370px;
+height: 826px;
+top: 496px;
+margin-left: 160px;
+border: 1px solid black;
+border-radius: 10px;
+ }
+ .div5{
+    width: 370px;
+height: 826px;
+top: 496px;
+margin-left: 160px;
+border: 1px solid black;
+border-radius: 10px;
+ }
+ .section2 div h2{
+    width: 98px;
+height: 25px;
+margin-top: 40px;
+margin-left: 40px;
+font-family: Poppins;
+font-size: 32px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+
+ }
+ .section2 div p{
+    width: 210px;
+height: 54px;
+margin-top: 25px;
+margin-left: 40px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+ 
+ }
+ .section2 div h1{
+    width: 117px;
+height: 32px;
+margin-top: 40px;
+margin-left: 40px;
+font-family: Poppins;
+font-size: 44px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+ }
+ .section2 button{
+    width: 235px;
+height: 55px;
+top: 244px;
+margin-left: 35px;
+border-radius: 12px;
+border: 2px solid black;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+text-align: center;
+color: #000000;
+background:#FFFFFF;
+ 
+ }
+ .section2 div span p{
+    width: 180px;
+    height: 24px;
+    top: 329px;
+    margin-left: 40px;
+    /* gap: 10px; */
+    line-height: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #808080;
+    
+ }
+ .section2 div span i{
+    width: 17.42px;
+height: 12.13px;
+top: 7.29px;
+left: 3.29px;
+margin-right: 5px;
+color: #000000;
+ }
+ .section3{
+    width: 1890px;
+height: 1076px;
+top: 2778px;
+left: 142px;
+margin: 40px;
+
+ }
+ .div6{
+width: 948px;
+height: 650px;
+border: 1px solid black;
+ }
+ .div7{
+    width: 948px;
+height: 650px;
+border: 1px solid black;
+ }
+.div8{
+    width:  ;
+    height: 200px;
+
+}
+.div6 img{
+    width: 143px;
+height: 120px;
+margin-left: 84px;
+opacity: 0.3px;
+
+}
+.div6 h1{
+    width: Fixed (445px);
+    height: Hug (168px);
+    margin-top: none;
+    margin-left: 159px;
+    gap: 8px;
+    width: 445px;
+height: 128px;
+font-family: Inter;
+font-size: 48px;
+font-weight: 800;
+line-height: 64px;
+text-align: left;
+}
+.div6 p{
+    width: 445px;
+height: 32px;
+font-family: Inter;
+font-size: 22px;
+font-weight: 400;
+line-height: 32px;
+margin-left: 160px;
+margin-top: 20px;
+
+}
+.div6 .img2{
+    width: 120px;
+    height: 100px;
+    top: 7px;
+    margin-left: 280px;
+    
+}
+.div6 span p{
+    width: 254px;
+height: 152px;
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+margin-top: 1px;
+margin-left: 250px;
+}
+.div6 h3{
+    width: 101px;
+height: 28px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+ margin-left: 260px;
+ margin-bottom:10px ;
+
+}
+.div6 span {
+    width: 127px;
+    height: 24px;
+    font-family: inter;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #969BAB;
+    
+}
+.div6 h4{
+    width: 180px;
+height: 20px;
+font-family: Inter;
+font-size: 22px;
+font-weight: 500;
+line-height: 24px;
+margin-left: 250px;
+color: #969BAB;
+
+}
+ .div7 img{
+    width: 78px;
+    height: 50px;
+    margin-top: 110px;
+    margin-left: 154px;
+    
+ }
+ .div7 p{
+    width: 349px;
+height: 146px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+ }
+.div7 h3{
+    width: 134px;
+height: 28px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+ margin-left: 145px;
+ margin-top: 20px;
+
+}
+.div7 h4{
+    width:100px;
+    height: 24px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    color:#969BAB;
+    margin-left: 145px;
+}
+.div7 .img2{
+    width: 120px;
+height: 83px;
+margin-top: 41px;
+margin-left: 155px;
+
+}
